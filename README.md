@@ -5,6 +5,8 @@ https://www.codeproject.com/Articles/235936/PDF-First-Page
 
 This Windows application lets you delete all of your pages from your PDF files except for the first one.
 
+![d](img/FirstPage.gif)
+
 ## Introduction
 This complete Windows application lets you delete all of your pages from your PDF files except for the first one. 
 This is useful for file indexing when the information you want to index is located on the first page. It uses free iTextSharp library.
